@@ -1,4 +1,4 @@
-# Team-X-AE-A-12
+# Medibuddy
 your rescue on the move!
 
 Our project consists of a three way approach -:
